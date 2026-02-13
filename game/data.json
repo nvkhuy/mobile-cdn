@@ -1,0 +1,19 @@
+{
+  "id": 53,
+  "firstName": "David",
+  "lastName": "Hall",
+  "email": "rrjl9@s3uqq.com",
+  "active": false,
+  "tags": [
+    "attention",
+    "attack"
+  ],
+  "details": {
+    "age": 62,
+    "city": "Suzhou",
+    "country": "South Korea",
+    "phoneNumber": "(602) 695-4014",
+    "startDate": "2004-12-06T13:26:04.533Z",
+    "endDate": "2020-09-25T06:47:26.550Z"
+  }
+}
