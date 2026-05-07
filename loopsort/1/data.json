@@ -1,6 +1,6 @@
 {
-  "minLevelForRewarded": 100,
-  "minLevelForInterstitial": 100,
+  "minLevelForRewarded": 1,
+  "minLevelForInterstitial": 3,
   "interstitialCooldownSeconds": 300,
   "rewardedCooldownSeconds": 2
 }
